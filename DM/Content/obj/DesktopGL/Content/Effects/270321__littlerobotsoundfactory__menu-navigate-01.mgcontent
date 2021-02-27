@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270321__littlerobotsoundfactory__menu-navigate-01.wav</SourceFile>
+  <SourceTime>2018-11-01T21:56:56+03:00</SourceTime>
+  <DestFile>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/bin/DesktopGL/Content/Effects/270321__littlerobotsoundfactory__menu-navigate-01.xnb</DestFile>
+  <DestTime>2018-11-01T22:09:01.9181992+03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-10-22T03:53:22+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-10-22T03:53:22+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Backs/Back1.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Backs/Back2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Backs/Black Text Logo.jpg</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/ControlFont.spritefont</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270302__littlerobotsoundfactory__collect-point-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270304__littlerobotsoundfactory__collect-point-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270305__littlerobotsoundfactory__climb-rope-loop-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270306__littlerobotsoundfactory__explosion-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270307__littlerobotsoundfactory__explosion-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270308__littlerobotsoundfactory__explosion-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270309__littlerobotsoundfactory__craft-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270310__littlerobotsoundfactory__explosion-04.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270311__littlerobotsoundfactory__explosion-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270315__littlerobotsoundfactory__menu-navigate-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270316__littlerobotsoundfactory__open-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270318__littlerobotsoundfactory__jump-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270319__littlerobotsoundfactory__jingle-win-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270320__littlerobotsoundfactory__jump-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270321__littlerobotsoundfactory__menu-navigate-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270322__littlerobotsoundfactory__menu-navigate-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270323__littlerobotsoundfactory__jump-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270324__littlerobotsoundfactory__menu-navigate-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270326__littlerobotsoundfactory__hit-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270327__littlerobotsoundfactory__hit-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270329__littlerobotsoundfactory__jingle-lose-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270330__littlerobotsoundfactory__jingle-achievement-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270331__littlerobotsoundfactory__jingle-achievement-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270332__littlerobotsoundfactory__hit-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270333__littlerobotsoundfactory__jingle-win-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270334__littlerobotsoundfactory__jingle-lose-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270335__littlerobotsoundfactory__shoot-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270336__littlerobotsoundfactory__shoot-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270337__littlerobotsoundfactory__pickup-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270338__littlerobotsoundfactory__open-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270339__littlerobotsoundfactory__pickup-02.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270340__littlerobotsoundfactory__pickup-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270342__littlerobotsoundfactory__pickup-03.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270343__littlerobotsoundfactory__shoot-01.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/270344__littlerobotsoundfactory__shoot-00.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/Dash.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/HeroDeath.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/Hit.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/PotionPickUp.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Effects/PotionPickUp2.wav</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/1.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/3.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/4.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/5.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/6.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/7.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Enemy/8.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Font.spritefont</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/grayscale.fx</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/1.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/10.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/11.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/12.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/13.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/3.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/4.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/5.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/6.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/7.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/8.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero/9.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/1.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/10.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/11.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/12.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/13.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/3.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/4.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/5.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/6.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/7.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/8.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Hero2/9.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/ControlIcon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/ControlIcon2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/ControlPS4.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/DashIcon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/Grave.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/HealthIcon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/Icon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/Icon2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/KeyIcon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Icons/PickIcon.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/light.fx</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/lightmask.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/lightmask2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/lightmask3.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/MainMenuFont.spritefont</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Music/1.mp3</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Music/2.mp3</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Music/3.mp3</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/1up.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/Bad.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/CopperKey.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/God.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/GoldKey.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/Health.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/Mana.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/Poison.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Potion/SilverKey.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/DUNGEONMAN/DM/DM/Content/Rainbow.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Backs/Screen.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>rainbow.fx</File>
+  </DestFiles>
+</SourceFileCollection>
